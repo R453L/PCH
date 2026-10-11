@@ -317,5 +317,12 @@
   "source": "Bank of Amsterdam",
   "year": "1609",
   "country": "Netherlands"
+ },
+ {
+  "ts": "2026-10-11T03:07+00:00",
+  "topic": "salt tax",
+  "source": "Salt tax",
+  "year": "1696",
+  "country": "England"
  }
 ]
