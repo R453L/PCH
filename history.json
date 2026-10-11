@@ -324,5 +324,12 @@
   "source": "Salt tax",
   "year": "1696",
   "country": "England"
+ },
+ {
+  "ts": "2026-10-11T06:06+00:00",
+  "topic": "Lloyd's of London Titanic insurance and Cuthbert Heath's claim payment rule",
+  "source": "Lloyd's of London",
+  "year": 1912,
+  "country": "United Kingdom"
  }
 ]
