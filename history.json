@@ -338,5 +338,12 @@
   "source": "S&H Green Stamps",
   "year": "1960s",
   "country": "United States"
+ },
+ {
+  "ts": "2026-10-11T12:06+00:00",
+  "topic": "Comstock Lode silver discovery",
+  "source": "Comstock Lode",
+  "year": 1859,
+  "country": "United States"
  }
 ]
