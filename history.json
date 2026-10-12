@@ -380,5 +380,12 @@
   "source": "Tea Act",
   "year": "1773",
   "country": "Britain"
+ },
+ {
+  "ts": "2026-10-12T06:07+00:00",
+  "topic": "Tariff of Abominations",
+  "source": "Tariff of Abominations",
+  "year": 1828,
+  "country": "United States"
  }
 ]
