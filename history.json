@@ -394,5 +394,12 @@
   "source": "Piggy bank",
   "year": "12th century",
   "country": "Indonesia"
+ },
+ {
+  "ts": "2026-10-12T12:07+00:00",
+  "topic": "East India Company",
+  "source": "East India Company",
+  "year": "1580",
+  "country": "England"
  }
 ]
