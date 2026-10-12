@@ -401,5 +401,12 @@
   "source": "East India Company",
   "year": "1580",
   "country": "England"
+ },
+ {
+  "ts": "2026-10-12T15:07+00:00",
+  "topic": "Sherman Silver Purchase Act",
+  "source": "Sherman Silver Purchase Act",
+  "year": "1890",
+  "country": "United States"
  }
 ]
