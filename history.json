@@ -422,5 +422,12 @@
   "source": "Bank of England",
   "year": "1694",
   "country": "United Kingdom"
+ },
+ {
+  "ts": "2026-10-13T06:12+00:00",
+  "topic": "Stamp Act 1765",
+  "source": "Stamp Act 1765",
+  "year": 1765,
+  "country": "British colonies in America"
  }
 ]
