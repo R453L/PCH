@@ -436,5 +436,12 @@
   "source": "Penny arcade",
   "year": "1982",
   "country": "North America"
+ },
+ {
+  "ts": "2026-10-13T12:06+00:00",
+  "topic": "life insurance",
+  "source": "Life insurance",
+  "year": "1583",
+  "country": "England"
  }
 ]
