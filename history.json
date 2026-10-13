@@ -443,5 +443,12 @@
   "source": "Life insurance",
   "year": "1583",
   "country": "England"
+ },
+ {
+  "ts": "2026-10-13T15:07+00:00",
+  "topic": "sumptuary law",
+  "source": "Sumptuary law",
+  "year": "17th century",
+  "country": "England"
  }
 ]
