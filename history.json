@@ -415,5 +415,12 @@
   "source": "New York Stock Exchange",
   "year": "August 28, 2000",
   "country": "USA"
+ },
+ {
+  "ts": "2026-10-13T03:07+00:00",
+  "topic": "Bank of England",
+  "source": "Bank of England",
+  "year": "1694",
+  "country": "United Kingdom"
  }
 ]
