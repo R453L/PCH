@@ -429,5 +429,12 @@
   "source": "Stamp Act 1765",
   "year": 1765,
   "country": "British colonies in America"
+ },
+ {
+  "ts": "2026-10-13T09:06+00:00",
+  "topic": "penny arcade",
+  "source": "Penny arcade",
+  "year": "1982",
+  "country": "North America"
  }
 ]
