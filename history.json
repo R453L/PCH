@@ -457,5 +457,12 @@
   "source": "Diners Club",
   "year": "1950",
   "country": "USA"
+ },
+ {
+  "ts": "2026-10-14T03:06+00:00",
+  "topic": "Factory Acts",
+  "source": "Factory Acts",
+  "year": 1802,
+  "country": "United Kingdom"
  }
 ]
