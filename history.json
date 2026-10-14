@@ -471,5 +471,12 @@
   "source": "Piggly Wiggly",
   "year": "1932",
   "country": "USA"
+ },
+ {
+  "ts": "2026-10-14T09:06+00:00",
+  "topic": "fractional currency",
+  "source": "Fractional currency",
+  "year": "1866",
+  "country": "United States"
  }
 ]
