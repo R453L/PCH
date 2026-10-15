@@ -520,5 +520,12 @@
   "source": "Klondike Gold Rush",
   "year": "1897",
   "country": "Canada"
+ },
+ {
+  "ts": "2026-10-15T12:08+00:00",
+  "topic": "lamplighter",
+  "source": "Lamplighter",
+  "year": "2014",
+  "country": "Germany"
  }
 ]
