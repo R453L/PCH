@@ -527,5 +527,12 @@
   "source": "Lamplighter",
   "year": "2014",
   "country": "Germany"
+ },
+ {
+  "ts": "2026-10-16T04:07+00:00",
+  "topic": "mail order history",
+  "source": "Mail order",
+  "year": "1861",
+  "country": "United Kingdom"
  }
 ]
