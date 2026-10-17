@@ -548,5 +548,12 @@
   "source": "Sixpence (British coin)",
   "year": 1971,
   "country": "United Kingdom"
+ },
+ {
+  "ts": "2026-10-17T08:08+00:00",
+  "topic": "Singer Corporation",
+  "source": "Singer Corporation",
+  "year": "1939",
+  "country": "United States"
  }
 ]
