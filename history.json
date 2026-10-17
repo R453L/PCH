@@ -541,5 +541,12 @@
   "source": "Great Exhibition",
   "year": 1851,
   "country": "England"
+ },
+ {
+  "ts": "2026-10-17T04:09+00:00",
+  "topic": "Sixpence (British coin)",
+  "source": "Sixpence (British coin)",
+  "year": 1971,
+  "country": "United Kingdom"
  }
 ]
