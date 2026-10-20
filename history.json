@@ -583,5 +583,12 @@
   "source": "Liberty bond",
   "year": 1934,
   "country": "United States"
+ },
+ {
+  "ts": "2026-10-20T04:07+00:00",
+  "topic": "company town history",
+  "source": "Company town",
+  "year": "1898",
+  "country": "United States"
  }
 ]
