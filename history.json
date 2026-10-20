@@ -590,5 +590,12 @@
   "source": "Company town",
   "year": "1898",
   "country": "United States"
+ },
+ {
+  "ts": "2026-10-20T08:08+00:00",
+  "topic": "Truck wages",
+  "source": "Truck wages",
+  "year": "1827",
+  "country": "Britain"
  }
 ]
