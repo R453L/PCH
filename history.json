@@ -597,5 +597,12 @@
   "source": "Truck wages",
   "year": "1827",
   "country": "Britain"
+ },
+ {
+  "ts": "2026-10-21T04:07+00:00",
+  "topic": "Banque de France",
+  "source": "Banque de France",
+  "year": "1920s",
+  "country": "France"
  }
 ]
