@@ -604,5 +604,12 @@
   "source": "Banque de France",
   "year": "1920s",
   "country": "France"
+ },
+ {
+  "ts": "2026-10-21T08:07+00:00",
+  "topic": "Medici Bank",
+  "source": "Medici Bank",
+  "year": "1397",
+  "country": "Italy"
  }
 ]
