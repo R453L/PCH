@@ -611,5 +611,12 @@
   "source": "Medici Bank",
   "year": "1397",
   "country": "Italy"
+ },
+ {
+  "ts": "2026-10-22T04:55+00:00",
+  "topic": "Weimar hyperinflation bread price collapse",
+  "source": "Hyperinflation in the Weimar Republic",
+  "year": "1923",
+  "country": "Germany"
  }
 ]
