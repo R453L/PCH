@@ -646,5 +646,12 @@
   "source": "Bank of North America",
   "year": "1781",
   "country": "United States"
+ },
+ {
+  "ts": "2026-10-27T04:53+00:00",
+  "topic": "Continental currency collapse",
+  "source": "Continental currency",
+  "year": "1780",
+  "country": "United States"
  }
 ]
