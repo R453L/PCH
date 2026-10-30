@@ -667,5 +667,12 @@
   "source": "Postal order",
   "year": "1881",
   "country": "United Kingdom"
+ },
+ {
+  "ts": "2026-10-30T04:54+00:00",
+  "topic": "Scandinavian Monetary Union",
+  "source": "Scandinavian Monetary Union",
+  "year": "1873",
+  "country": "Denmark and Sweden"
  }
 ]
