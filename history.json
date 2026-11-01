@@ -681,5 +681,12 @@
   "source": "Truck Acts",
   "year": 1831,
   "country": "Great Britain"
+ },
+ {
+  "ts": "2026-11-01T04:54+00:00",
+  "topic": "building societies",
+  "source": "Building society",
+  "year": "1775",
+  "country": "United Kingdom"
  }
 ]
