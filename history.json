@@ -688,5 +688,12 @@
   "source": "Building society",
   "year": "1775",
   "country": "United Kingdom"
+ },
+ {
+  "ts": "2026-11-02T04:56+00:00",
+  "topic": "Navigation Acts",
+  "source": "Navigation Acts",
+  "year": "1651",
+  "country": "England"
  }
 ]
