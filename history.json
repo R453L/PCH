@@ -716,5 +716,12 @@
   "source": "Currency Act",
   "year": 1740,
   "country": "British America"
+ },
+ {
+  "ts": "2026-11-06T04:54+00:00",
+  "topic": "Gold Reserve Act of 1934",
+  "source": "Gold Reserve Act",
+  "year": 1934,
+  "country": "United States"
  }
 ]
