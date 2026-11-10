@@ -744,5 +744,12 @@
   "source": "Ice trade",
   "year": "1806",
   "country": "United States"
+ },
+ {
+  "ts": "2026-11-10T04:53+00:00",
+  "topic": "savings bank history",
+  "source": "Savings bank",
+  "year": 1778,
+  "country": "Germany"
  }
 ]
