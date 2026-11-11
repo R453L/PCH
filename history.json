@@ -751,5 +751,12 @@
   "source": "Savings bank",
   "year": 1778,
   "country": "Germany"
+ },
+ {
+  "ts": "2026-11-11T04:53+00:00",
+  "topic": "Half crown (British coin)",
+  "source": "Half crown (British coin)",
+  "year": "1970",
+  "country": "United Kingdom"
  }
 ]
