@@ -765,5 +765,12 @@
   "source": "South Sea Company",
   "year": 1711,
   "country": "Britain"
+ },
+ {
+  "ts": "2026-11-13T04:59+00:00",
+  "topic": "Selfridges department store",
+  "source": "Selfridges",
+  "year": 1909,
+  "country": "United Kingdom"
  }
 ]
