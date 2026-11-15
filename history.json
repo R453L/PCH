@@ -779,5 +779,12 @@
   "source": "Confederate States dollar",
   "year": "1865",
   "country": "United States"
+ },
+ {
+  "ts": "2026-11-15T04:54+00:00",
+  "topic": "First Bank of the United States",
+  "source": "First Bank of the United States",
+  "year": 1791,
+  "country": "United States"
  }
 ]
