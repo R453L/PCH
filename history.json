@@ -786,5 +786,12 @@
   "source": "First Bank of the United States",
   "year": 1791,
   "country": "United States"
+ },
+ {
+  "ts": "2026-11-16T04:54+00:00",
+  "topic": "John Wanamaker department store advertising",
+  "source": "John Wanamaker",
+  "year": "1874",
+  "country": "United States"
  }
 ]
