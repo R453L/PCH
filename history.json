@@ -828,5 +828,12 @@
   "source": "F. W. Woolworth Company",
   "year": 1879,
   "country": "United States"
+ },
+ {
+  "ts": "2026-11-22T04:55+00:00",
+  "topic": "Hudson's Bay Company fur trade pricing",
+  "source": "Hudson's Bay Company",
+  "year": 1700,
+  "country": "Canada"
  }
 ]
