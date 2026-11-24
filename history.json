@@ -842,5 +842,12 @@
   "source": "Harrods",
   "year": "1898",
   "country": "England"
+ },
+ {
+  "ts": "2026-11-24T04:54+00:00",
+  "topic": "Automat history",
+  "source": "Automat",
+  "year": "1902",
+  "country": "United States"
  }
 ]
