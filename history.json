@@ -870,5 +870,12 @@
   "source": "United States Mint",
   "year": "1920",
   "country": "United States"
+ },
+ {
+  "ts": "2026-11-28T04:53+00:00",
+  "topic": "hire purchase history",
+  "source": "Hire purchase",
+  "year": "19th century",
+  "country": "United Kingdom"
  }
 ]
